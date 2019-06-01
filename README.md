@@ -23,9 +23,7 @@ O vídeo mostra sobre o Mapeamento das Entidades do [PDF](./Exercicio_05__Mapeam
 Para você que usar apenas 1 monitor para fazer as coisas, ou se você ficou interessado, há uma dica que vou te passar.
 > Você já conhece o navegador [Maxthon](http://www.maxthon.com/)? Ele é um navagador muito bom para quem usa apenas 1 tela e precisa dividir contéudo, por exemplo assistir ao vídeo que disponibilizei e programar ao mesmo tempo, ele tem um recurso chamado "Reproduzir em uma janela", segue as imagens da função em ação!
 
-Como aparece para utlizar a função.
-![Imagem função](https://drive.google.com/open?id=1xMRoHI7-v38_n6Kg_57YMpca0sj3r-cE)
+Como aparece para utlizar a função.([Imagem função](https://drive.google.com/open?id=1xMRoHI7-v38_n6Kg_57YMpca0sj3r-cE))
 
 
-Demonstração da função.
-[Imagem demonstração](https://drive.google.com/open?id=1ZYFZk0RmkPkqZIvOsftbthEKOwb35nEk)
+Demonstração da função.([Imagem demonstração](https://drive.google.com/open?id=1ZYFZk0RmkPkqZIvOsftbthEKOwb35nEk))
