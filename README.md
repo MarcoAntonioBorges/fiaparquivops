@@ -5,7 +5,7 @@ Todos os arquivos de estudo para as PS.
 > THIAGO TOSHIYUKI I. YAMAMOTO ([Repositório](https://github.com/thiagoyama/2TDSG "Github"))
 
 ### Exercício 05
->Link Video Mapeamento Avancado: www.google.com.br
+>Link Video Mapeamento Avancado: [Assistir](https://drive.google.com/open?id=1NMwJQBfu3FwYIdY19PolBm6LGWDCiErl)
 
 O vídeo mostra sobre o Mapeamento das Entidades do [PDF](./Exercicio_05__Mapeamento_Avancado(1).pdf "PDF - Mapeamento Avancado"), assim como tratamento de Exceções, criação da Classe EntityManagerFactorySingleton, Todos os DAO e DAOImpl, contendo também GenericDAO e GenericDAOImpl.
 
