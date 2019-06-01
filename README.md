@@ -26,9 +26,6 @@ Para você que usar apenas 1 monitor para fazer as coisas, ou se você ficou int
 Como aparece para utlizar a função.
 ![maxthon_funcao_reproduzir_em_uma_janela](https://drive.google.com/open?id=1xMRoHI7-v38_n6Kg_57YMpca0sj3r-cE)
 
----
 
 Demonstração da função.
-![maxthon_funcao_reproduzir_em_uma_janela_demonstracao](https://drive.google.com/open?id=1ZYFZk0RmkPkqZIvOsftbthEKOwb35nEk)
-
-
+[![maxthon_funcao_reproduzir_em_uma_janela_demonstracao](https://drive.google.com/open?id=1ZYFZk0RmkPkqZIvOsftbthEKOwb35nEk)]
